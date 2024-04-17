@@ -1,2 +1,2 @@
-# API Automation
-Java | Rest-Assured | Selenium
+# API Automation | Java |
+Java | Selenium | Rest-Assured
